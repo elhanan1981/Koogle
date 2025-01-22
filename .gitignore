@@ -1,0 +1,80 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio files
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Compiled source
+*.com
+*.class
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# IDE specific files
+.idea/
+
+# Specific to your project
+KoogleApi.csproj.nuget.dgspec.json
+KoogleApi.csproj.nuget.g.props
+KoogleApi.csproj.nuget.g.targets
+project.assets.json
+project.nuget.cache
+
+# Ignore specific files
+.identifier
+
+# Ignore Zone.Identifier files
+*Zone.Identifier
